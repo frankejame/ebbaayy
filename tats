@@ -1,0 +1,26 @@
+[33mcommit 78cf3494eb5769fa3db6b227c09c80940460721e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: franktiku9gmail.com <ec2-user@ip-172-31-84-207.ec2.internal>
+Date:   Wed Sep 15 17:23:45 2021 +0000
+
+    ebay correctly added
+
+[33mcommit ec22d6283e57e2913d50c1885976b2d2f108ec23[m
+Author: franktiku9gmail.com <ec2-user@ip-172-31-84-207.ec2.internal>
+Date:   Wed Sep 15 17:10:53 2021 +0000
+
+    removing landmark added in error
+    Revert "landmark added"
+    
+    This reverts commit 80c378969fef1a48dd4911bb5dbef113e2d057bd.
+
+[33mcommit 80c378969fef1a48dd4911bb5dbef113e2d057bd[m
+Author: franktiku9gmail.com <ec2-user@ip-172-31-84-207.ec2.internal>
+Date:   Wed Sep 15 17:06:35 2021 +0000
+
+    landmark added
+
+[33mcommit 0eef12986480916f1e175a6f9509d5b110482aeb[m
+Author: franktiku9gmail.com <ec2-user@ip-172-31-84-207.ec2.internal>
+Date:   Wed Sep 15 14:23:56 2021 +0000
+
+    my second commit
